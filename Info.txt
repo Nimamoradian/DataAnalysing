@@ -1,0 +1,10 @@
+This is a part of project which extracts the keywords from a story. it also count and sort them to see which words have repeated more than other
+Moreover, there is a another analyze which analyzes the score. The result  of both LA(score) and LB(keyword) functions collect by another function and the best ones sends to a web page by http request
+
+******************** Use this code ***************
+
+You need to install and run Node-Red
+Copy the content of Node-Red File (nodes).
+To import the code you need to go to the Menu on the right top corner
+then click on Import --> Clipboard and paste the nodes there
+you need to set the input (JSON Format) and output
